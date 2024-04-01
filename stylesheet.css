@@ -1,0 +1,219 @@
+
+
+#playbox {
+    position: relative;
+    width: 700px;
+    height: 700px;
+    background-color: rgb(15,48,71);
+    top: 0px;
+    left: 30%;
+}
+body {
+    background-color: rgb(233,226,188);
+}
+#logophoto {
+position: relative;
+left: 28%;
+top: 20px;;
+height: 200px;
+width: 200px;
+}
+
+#logoword {
+    color: rgb(198,58,50);
+    position: relative;
+    left: 40%;
+    top: -270px;
+    font-size: 150px;
+}
+
+header {
+    position: relative;
+    background-color: rgb(15,48,71);
+    height: 250px;
+    width: 100%;
+    top: -10px;
+}
+
+footer{ 
+    position: relative;
+    background-color: rgb(198,58,50);
+    height: 300px;
+    bottom: -50px;
+    width: 100%;
+}
+
+.footerlinks {
+    font-size: 40px;
+    position: relative;
+    color: black;
+}
+
+#about {
+    position: relative;
+    left: 10%;
+
+}
+
+#high {
+    position: relative;
+    left: 45%;
+    top: -88px;
+
+}
+
+#more {
+    position: relative;
+    left: 80%;
+    top: -170px;
+
+}
+
+#play {
+    position: relative;
+    font-size: 50px;
+    left: 43%;
+    top: 450px;
+    color: rgb(198,58,50);
+    width: 60px;
+    height: 100px;
+    background-color: rgb(233,226,188);
+}
+
+#rules {
+    position: relative;
+    left: 45%;
+    top: 350px;
+    color: rgb(198,58,50);
+    background-color: rgb(233,226,188);
+    width: 60px;
+    height: 30px;
+}
+
+#botd {
+    position: relative;
+    left: 310px;
+    top: 350px;
+    color: rgb(198,58,50);
+    background-color: rgb(233,226,188);
+    width: 70px;
+    height: 30px;
+}
+
+#moreinfologo {
+    color: rgb(198,58,50);
+    position: relative;
+    left: 500px;
+    top: -270px;
+    font-size: 150px;
+
+}
+
+#moreinfologopic {
+    position: relative;
+left: 300px;
+top: 20px;;
+height: 200px;
+width: 200px;
+}
+
+#logowordrules {
+    color: rgb(198,58,50);
+    position: relative;
+    left: 500px;
+    top: -270px;
+    font-size: 150px;
+}
+
+#about2 {
+    position: relative;
+    left: 200px;
+
+}
+
+#high2 {
+    position: relative;
+    left: 800px;
+    top: -150px;
+}
+
+#more2 {
+    position: relative;
+    left: 1400px;
+    top: -290px;
+
+}
+
+#lower {
+    position: relative;
+    top: 600px;
+}
+
+#creditspage {
+    position: relative;
+    left: 800px;
+    top: 10px;
+}
+
+#birdImage {
+    position: relative;
+    left: 15%;
+    top: 10%;
+}
+
+#guessInput {
+    position: relative;
+    left: 35%;
+    top: 30%;
+}
+
+#guessButton {
+    position: relative;
+    left: 45%;
+    top: 30%;
+}
+
+#highscorelabel {
+    font-size: 100px;
+    position: relative;
+    text-align: center;
+    color: rgb(198,58,50);
+}
+
+#highscorebox {
+    position: relative;
+    width: 30%;
+    height: 500px;
+    background-color: rgb(15,48,71);
+    left: 35%;
+
+}
+
+#highscorescore {
+    font-size: 60px;
+    color: rgb(233,226,188);
+    text-align: center;
+}
+
+#rulebox {
+    position: relative;
+    width: 700px;
+    height: 700px;
+    background-color: rgb(15,48,71);
+    top: 0px;
+    left: 30%;
+}
+
+#rulehead {
+    position: relative;
+    text-align: center;
+    font-size: 100px;
+    color: rgb(198,58,50);
+}
+
+#birdrule {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(198,58,50);
+}

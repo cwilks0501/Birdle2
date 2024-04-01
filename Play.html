@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>PlayBirdle</title>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETXHE15K9L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ETXHE15K9L');
+</script>
+<script src="birdle.js"></script>
+
+<body>
+  <header>
+    <a href="index.html"><img src="BirdleTopLeft.jpg" alt="Logo of Birdle, Clip art image of a bird flying." id="logophoto"></a>
+    <h1 id="logoword">Birdle</h1>
+  </header>
+
+  <div id="playbox">
+    <img src="tucan.jpg" alt="Guess the bird!" id="birdImage">
+    <br>
+    <input type="text" id="guessInput" placeholder="Enter your guess">
+    <button onclick="checkGuess()" id="guessButton">Submit</button>
+  </div>
+
+  <footer>
+    <a href="About.html"><p id="about2" class="footerlinks">About Birdle</p></a>
+    <br>
+    <a href="HighScores.html"><p id="high2" class="footerlinks">High Scores</p></a>
+    <br>
+    <a href="MoreInfo.html"><p id="more2" class="footerlinks">More Info</p></a>
+  </footer>
+
+
+</body>
+</html>
